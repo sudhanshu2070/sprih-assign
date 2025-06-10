@@ -5,4 +5,11 @@
   "dueDate" : "2025-12-10",
   "priority" : "MEDIUM",
   "status" : "PENDING"
+}, {
+  "id" : 2,
+  "title" : "Complete assignment",
+  "description" : "Finish the task management system",
+  "dueDate" : "2025-12-15",
+  "priority" : "HIGH",
+  "status" : "PENDING"
 } ]

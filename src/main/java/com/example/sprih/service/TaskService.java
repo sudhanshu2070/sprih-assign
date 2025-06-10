@@ -62,7 +62,7 @@ public class TaskService {
             .findFirst()
             .orElseThrow(() -> new TaskNotFoundException("Task not found with id: " + id));
         
-        // Update fields if they're provided in taskDetails
+        // Updating fields if they're provided in taskDetails
         if (taskDetails.getTitle() != null) {
             existingTask.setTitle(taskDetails.getTitle());
         }
