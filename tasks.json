@@ -1,0 +1,8 @@
+[ {
+  "id" : 1,
+  "title" : "Review documentation",
+  "description" : "Read Spring Boot docs",
+  "dueDate" : "2025-12-10",
+  "priority" : "MEDIUM",
+  "status" : "PENDING"
+} ]
