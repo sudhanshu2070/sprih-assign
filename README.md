@@ -1,4 +1,4 @@
-# Task Management System - Java Assignment
+# Task Management System 
 
 A simple task management system built with Spring Boot and in-memory storage.
 
@@ -91,7 +91,7 @@ sprih/
 
 1. **Clone the project**
      ```bash
-     git clone https://github.com/yourusername/sprih.git
+     git clone https://github.com/sudhanshu2070/sprih-assign.git
      cd sprih
      ```
 
@@ -106,7 +106,7 @@ sprih/
      ```
 
 4. **Access the app**
-     - API endpoint: [http://localhost:8080/api/tasks](http://localhost:8080/api/tasks)
+     - API endpoint: [http://localhost:8080/api/tasks](http://localhost:8080/api/inMemory/tasks)
 
 ---
 
