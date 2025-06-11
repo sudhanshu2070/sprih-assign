@@ -1,11 +1,4 @@
 [ {
-  "id" : 1,
-  "title" : "Review documentation",
-  "description" : "Read Spring Boot docs",
-  "dueDate" : "2025-12-10",
-  "priority" : "MEDIUM",
-  "status" : "PENDING"
-}, {
   "id" : 2,
   "title" : "Complete assignment",
   "description" : "Finish the task management system",
@@ -21,6 +14,13 @@
   "status" : "PENDING"
 }, {
   "id" : 4,
+  "title" : "Submit project report",
+  "description" : "Finalize and submit the quarterly report",
+  "dueDate" : "2025-11-20",
+  "priority" : "MEDIUM",
+  "status" : "PENDING"
+}, {
+  "id" : 5,
   "title" : "Submit project report",
   "description" : "Finalize and submit the quarterly report",
   "dueDate" : "2025-11-20",
