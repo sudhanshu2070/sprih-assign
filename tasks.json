@@ -12,4 +12,18 @@
   "dueDate" : "2025-12-15",
   "priority" : "HIGH",
   "status" : "PENDING"
+}, {
+  "id" : 3,
+  "title" : "Complete assignment",
+  "description" : "Finish the task management system",
+  "dueDate" : "2025-12-15",
+  "priority" : "HIGH",
+  "status" : "PENDING"
+}, {
+  "id" : 4,
+  "title" : "Submit project report",
+  "description" : "Finalize and submit the quarterly report",
+  "dueDate" : "2025-11-20",
+  "priority" : "MEDIUM",
+  "status" : "PENDING"
 } ]
